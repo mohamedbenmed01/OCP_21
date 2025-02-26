@@ -1,4 +1,4 @@
-package chapiter1;
+package chapiter01;
 
 public class TextBlock {
 

@@ -1,4 +1,4 @@
-package chapiter2;
+package chapiter02;
 
 public class ReviewQuestions {
 

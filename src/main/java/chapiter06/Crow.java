@@ -1,4 +1,4 @@
-package chapiter6;
+package chapiter06;
 
 import java.util.HashMap;
 import java.util.Map;

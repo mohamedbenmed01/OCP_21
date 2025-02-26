@@ -1,4 +1,4 @@
-package chapiter3;
+package chapiter03;
 
 public class SwitchTests {
     public static void main(String[] args) {

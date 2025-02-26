@@ -1,4 +1,4 @@
-package chapiter3.instanceofexample;
+package chapiter03.instanceofexample;
 
 public interface Shape extends AnoterhInterface {
     public static double getPerimeterIf(Shape shape) throws IllegalArgumentException {

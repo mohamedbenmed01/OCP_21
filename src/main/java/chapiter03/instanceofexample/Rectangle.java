@@ -1,4 +1,4 @@
-package chapiter3.instanceofexample;
+package chapiter03.instanceofexample;
 
 public class Rectangle implements Shape {
     final double length;
