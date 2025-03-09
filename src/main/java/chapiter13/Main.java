@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import static java.util.Arrays.*;
 
 public class Main {
-    private static final String bench;
+    private static final String bench = "bench";
     public static void main(String[] args){
         final var list1 = new ArrayList<String>();
         var list2 = new ArrayList<String>(list1);
