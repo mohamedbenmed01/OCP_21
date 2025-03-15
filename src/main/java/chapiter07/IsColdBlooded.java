@@ -23,7 +23,7 @@ public interface IsColdBlooded {
     }
 }
 
-class Fish implements IsColdBlooded {
+class Example implements IsColdBlooded {
 
     @Override
     public boolean hasScales() {
