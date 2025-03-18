@@ -1,4 +1,4 @@
 package chapiter07;
 
-public final class GreyPolar extends Polar{
+public abstract non-sealed class GreyPolar extends Polar{
 }
